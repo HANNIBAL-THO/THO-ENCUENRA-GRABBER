@@ -22,7 +22,7 @@ from utils.config import Config
 from utils.display import updateDisplayDiscord
 
 argparser = argparse.ArgumentParser(
-        description="THO ENCUERA GRABBER",
+        description="THO ENCUERA GRABBER DISCORD : https://discord.gg/tfRuSC52Da",
         epilog="BY TODO HACK OFFICIAL"
     )
 argparser.add_argument(
